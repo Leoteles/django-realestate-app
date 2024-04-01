@@ -1,0 +1,1 @@
+Django project for a realstate selling web app. Based on Brad Traversy's django course on udemy.
